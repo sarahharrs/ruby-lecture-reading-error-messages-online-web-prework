@@ -15,9 +15,9 @@ Get started by opening this lab by pressing the Open button on the toolbar so yo
 
 ## Video
 
-<iframe width="960" height="720" src="https://www.youtube.com/embed/L_eoziYKLXw?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-[Download MP4](http://flatiron-videos.s3.amazonaws.com/ironboard/ruby/ruby-lecture-reading-error-messages/ruby-lecture-reading-error-messages.mp4)
+<iframe width="960" height="720" src="https://www.youtube.com/embed/L_eoziYKLXw?rel=0&amp;showinfo=0" frameborder="0"
+allowfullscreen></iframe>
+y-lecture-reading-error-messages.mp4)
 
 ## Reading Error Messages
 
